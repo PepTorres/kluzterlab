@@ -1,0 +1,466 @@
+/* Rectangle 6 */
+{
+    position: absolute;
+    width: 926px;
+    height: 612px;
+    left: 0px;
+    top: -51px;
+
+    background: #FFFFFF;
+
+}
+
+
+/* Frame 1 */
+
+{
+    position: absolute;
+    width: 489px;
+    height: 561px;
+    left: 437px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+
+
+/* Rectangle 8 */
+
+
+{
+    position: absolute  ;
+    width: 161px  ;
+    height: 158px  ;
+    left: 601px  ;
+    top: 176px  ;
+
+    background: url(klux.png)
+;
+    mix-blend-mode: lighten
+;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+;
+    border-radius: 271px
+;
+}
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. */
+
+{
+    position: absolute
+;
+    width: 340px
+;
+    height: 193px
+;
+    left: 512px
+;
+    top: 436px
+;
+
+    font-family: Rubik
+;
+    font-style: normal
+;
+    font-weight: normal
+;
+    font-size: 18px
+;
+    line-height: 21px
+;
+    text-align: center
+;
+
+    color: #FFFFFF
+;
+
+    mix-blend-mode: normal
+;
+}
+
+/* User */
+{
+
+    position: absolute
+;
+    width: 25px
+;
+    height: 23px
+;
+    left: 99px
+;
+    top: 223px
+;
+
+    background: url(businessman.png)
+;
+
+}
+/* Candado */
+
+{
+    position: absolute
+;
+    width: 25px
+;
+    height: 23px
+;
+    left: 99px
+;
+    top: 269px
+;
+
+    background: url(padlock.png)
+;
+}
+
+/* Interrogacion */
+
+{
+    position: absolute
+;
+    width: 23px
+;
+    height: 23px
+;
+    left: 345px
+;
+    top: 269px
+;
+
+    background: url(pregunta.png)
+;
+}
+
+/* Line 1 */
+
+{
+    position: absolute
+;
+    width: 128px
+;
+    height: 0px
+;
+    left: 220px
+;
+    top: 417.07px
+;
+
+    border: 1px solid #C4C4C4
+;
+    transform: rotate(-179.97deg)
+;
+}
+
+/* Line 2 */
+{
+
+    position: absolute
+;
+    width: 128px
+;
+    height: 0px
+;
+    left: 370px
+;
+    top: 417.07px
+;
+
+    border: 1px solid #C4C4C4
+;
+    transform: rotate(-179.97deg)
+;
+}
+
+/* Rectangle 7 */
+
+{
+    position: absolute
+;
+    width: 154px
+;
+    height: 71px
+;
+    left: 88px
+;
+    top: 92px
+;
+
+    background: url(klux.png)
+;
+}
+
+/* luzters */
+
+{
+    position: absolute
+;
+    width: 149px
+;
+    height: 54px
+;
+    left: 179px
+;
+    top: 109px
+;
+
+    font-family: Rubik
+;
+    font-style: normal
+;
+    font-weight: bold
+;
+    font-size: 38px
+;
+    line-height: 45px
+;
+
+    color: #565252
+;
+
+}
+
+/* KluztersCMS */
+
+{
+    position: absolute
+;
+    width: 516px
+;
+    height: 90px
+;
+
+    font-family: Rubik
+;
+    font-style: normal
+;
+    font-weight: bold
+;
+    font-size: 35px
+;
+    line-height: 41px
+;
+    text-align: center
+;
+
+    color: #FFFFFF
+;
+
+}
+
+/* Rectangle 5 */
+
+{
+    position: absolute
+;
+    width: 299px
+;
+    height: 37px
+;
+
+    background: linear-gradient(180deg, #E2C218 0%, #FFD600 98.44%)
+;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+;
+    border-radius: 15px
+;
+}
+
+/* Log in to get in the moment updates on the things that interest you. */
+
+{
+
+
+position: absolute;
+width: 251px;
+height: 25px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #ABAAAA;
+
+}
+
+/* Dont have a account? */
+
+{
+
+
+position: absolute;
+width: 241px;
+height: 15px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+
+color: #ABAAAA;
+
+
+
+/* Or */
+
+
+position: absolute;
+width: 241px;
+height: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #ABAAAA;
+
+
+
+/* Continue with social media */
+
+
+position: absolute;
+width: 241px;
+height: 15px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+
+color: #ABAAAA;
+
+
+
+/* Sing Up Now */
+
+
+position: absolute;
+width: 81px;
+height: 11px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #FFD600;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 92px;
+height: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #C4C4C4;
+
+
+
+/* Username */
+
+
+position: absolute;
+width: 60px;
+height: 17px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #C4C4C4;
+
+
+
+/* SING IN */
+
+
+position: absolute;
+width: 224px;
+height: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* WELCOME TO */
+
+
+position: absolute;
+width: 89px;
+height: 17px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #ABAAAA;
+
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 299px;
+height: 37px;
+
+background: rgba(196, 196, 196, 0.15);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 15px;
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 299px;
+height: 37px;
+
+background: rgba(196, 196, 196, 0.15);
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 15px
+}
